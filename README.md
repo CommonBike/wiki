@@ -1,2 +1,2 @@
 # commonbike wiki
-goto [wiki](wiki/home)
+goto [wiki](https://github.com/CommonBike/wiki)
