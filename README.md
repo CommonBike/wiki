@@ -1,2 +1,2 @@
-# commonbike.github.io
-commonbike.github.io
+# commonbike wiki
+goto [wiki](wiki/home)
